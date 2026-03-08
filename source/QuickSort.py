@@ -1,4 +1,4 @@
-#Author: Akshata
+#Author: Akshata, Amruta
 def quick_sort(arr):
     # Base case: arrays with 0 or 1 element are already sorted
     if len(arr) <= 1:
